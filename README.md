@@ -1,8 +1,18 @@
+# Dev
 ```bash
-node server.js
+npm run dev
 ```
 
-Acesse http://localhost:3000
+# Prod
+```bash
+npm run prod
+```
+
+# Preview
+```bash
+npm run preview
+```
+
 
 # Rules
 1. O jogo é jogado em uma grade 3x3

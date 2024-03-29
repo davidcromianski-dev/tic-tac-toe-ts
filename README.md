@@ -13,6 +13,8 @@ npm run prod
 npm run preview
 ```
 
+# Local access
+[http://localhost:5173](http://localhost:5173)
 
 # Rules
 1. O jogo é jogado em uma grade 3x3
